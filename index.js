@@ -23,3 +23,5 @@ var divGrandNode = querySelectorAll(`ul.grand-node`)
 console.log(divGrandNode)
   
 }
+
+deepestChild
