@@ -5,5 +5,15 @@ function getFirstSelector(selector) {
 
 
 function nestedTarget() {
+  var result = document.querySelector(`.target`)
+  return result
+}
+
+function increaseRankBy(n) {
+  
+}
+
+
+function deepestChild() {
   
 }
